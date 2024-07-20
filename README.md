@@ -39,6 +39,14 @@ Ensure you have the following installed on your machine:
     npm install
     ```
 
+4. Install the Tailwind.css:
+
+    ```sh
+    npm install -D tailwindcss
+    ```
+    ```sh
+    npx tailwindcss init
+    ```
 ### Running the Application
 
 To start the development server, run:
